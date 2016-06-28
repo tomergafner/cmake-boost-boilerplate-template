@@ -12,5 +12,4 @@ cmake ../my-project
 make
 
 make test
-
 ```
