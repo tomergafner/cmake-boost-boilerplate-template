@@ -1,5 +1,6 @@
-#include <iostream>
+#include "api.h" 
 
 int main(int argc, char* argv[]) {
-	std::cout << "My Project" << std::endl;
+	print_example();
 }
+
