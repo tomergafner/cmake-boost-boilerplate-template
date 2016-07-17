@@ -8,4 +8,8 @@ BOOST_AUTO_TEST_CASE( test_case1 )
     BOOST_CHECK( true );
 }
 
+BOOST_AUTO_TEST_CASE( test_case2 )
+{
+    BOOST_CHECK( false );
+}
 

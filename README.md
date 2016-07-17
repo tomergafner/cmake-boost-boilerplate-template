@@ -13,3 +13,8 @@ make
 
 make test
 ```
+
+## Steps required to use the template
+* mkdir <project_name> && cd $_
+* copy the content of the directory cmake-boost-boilerplate-template
+* Change the content of the source files and of the CMakeLists.txt files
